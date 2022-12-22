@@ -1,0 +1,663 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        list-style: none;
+        text-decoration: none;
+
+
+    }
+
+    .content {
+        width: 100wh;
+        /* background-color: black; */
+        position: relative;
+
+    }
+
+    .content .log {
+        width: 100%;
+        background-color: #000;
+        z-index: 2;
+        gap: 70px;
+        margin: 0 50000px;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+
+    }
+
+    .content .log input {
+
+        width: 151px;
+        height: 32px;
+        border-radius: 4px;
+        border-style: none;
+        background: rgba(255, 255, 255, 0.12);
+        color: white;
+
+    }
+
+    .content .log {
+        margin: 0 auto;
+        display: flex;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        padding: 0 auto
+    }
+
+    .content .log ul {
+        display: flex;
+        color: white;
+        gap: 13px;
+        align-items: center;
+
+    }
+
+    .content .log ul+li {
+        gap: 150px;
+    }
+
+
+
+    .content .log p {
+        color: rgb(255, 255, 255);
+
+
+    }
+
+    .content .log .qwe {
+
+        width: 207px;
+        height: 48px;
+        background-color: #FF7143;
+        border-radius: 6px;
+        border-style: none;
+        font-size: 15px;
+    }
+
+    .content .log .boxxx {
+        width: 180px;
+    }
+
+    .content .badanash {
+        background-color: #FF7143;
+        width: 100wh;
+        height: 732px;
+        font-size: 20px;
+        overflow: hidden;
+
+    }
+
+    .content .badanash h1 {
+        font-size: 80px;
+        padding: 90px 175px;
+
+
+
+    }
+
+    .content .badanash .po {
+        font-size: 18px;
+        margin-left: -100px;
+        text-align: center;
+        margin-top: -60px;
+
+    }
+
+    .content .badanash .button1 {
+        width: 226px;
+        height: 64px;
+        border-radius: 6px;
+        color: white;
+        background-color: black;
+        font-size: 18px;
+        margin-left: 220px;
+        margin-top: 26px;
+    }
+
+    .content .badanash .tesla {
+        text-align: center;
+
+    }
+
+
+    .content .badanash .buuton2 {
+
+        width: 208px;
+        height: 64px;
+        border-radius: 6px;
+        color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
+        border-style: none;
+        font-size: 18px;
+
+    }
+
+    .content .badanash .tesla {
+        margin-top: 120px;
+    }
+
+
+
+
+
+    .content .hasan .left .badanash .h3 {
+
+        padding: 30px 0;
+    }
+
+
+    .content .badanash .yulduz h3 {
+
+
+        float: left;
+
+    }
+
+    .content .badanash .yulduz .p1 {
+
+        float: left;
+        margin-top: 350px;
+
+    }
+
+    .content .mone {
+        background-color: white;
+        display: flex;
+
+
+
+
+    }
+
+    .content .mone .box {
+        width: 100%;
+        display: flex;
+        padding: 100px;
+        justify-content: center;
+
+    }
+
+    .content .box .h {
+        padding-left: 25px;
+
+    }
+
+    .content .box .h p {
+        padding-top: 20px;
+    }
+
+    .content .box .h h2 {
+
+        padding-top: 10px;
+
+    }
+
+    .content .wioa {
+        width: 90%;
+        height: 603px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+        background-color: #000;
+
+
+
+
+    }
+
+    .content .wioa .foto1 {
+        width: 30%;
+
+        height: 603px;
+
+
+    }
+
+    /* .content .wioa .foto2 {} */
+
+    .content .wioa .wioa2 {
+        width: 70%;
+        margin: 20px 0;
+        color: white;
+        text-align: center;
+
+
+
+    }
+
+    .content .wioa .wioa2 .boxa {
+        display: flex;
+    }
+
+    .content .wioa .wioa2 .boxa .boxsiz1 {
+        width: 20px;
+        height: 20px;
+        background-color: #FFFFFF;
+        text-align: center;
+        margin-left: 510px;
+        margin-top: 30px;
+
+
+    }
+
+    .content .wioa .wioa2 .boxa .boxsiz2 {
+        width: 20px;
+        height: 20px;
+        background-color: #FFFFFF66;
+        text-align: center;
+        margin-left: 7px;
+        margin-top: 30px;
+
+    }
+
+
+    .content .wioa .wioa2 .laura {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 40px;
+    }
+
+    .content .wioa .wioa2 .director {
+        margin-top: 10px;
+        color: rgb(170, 170, 169);
+    }
+
+
+
+    .content .wioa .wioa2 h2 {
+
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+
+
+    }
+
+    .content .landing h1 {
+        padding-top: 150px;
+        padding-bottom: 30px;
+        background-color: rgb(255, 255, 255);
+    }
+
+
+    .content .landing {
+        width: 90%;
+        justify-content: space-between;
+
+        margin: 0 auto;
+
+
+
+    }
+
+    .content .landing .imgfar {
+        width: 85%;
+        margin: 0 auto;
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+        margin-bottom: 17px;
+        flex-wrap: wrap;
+
+    }
+
+    .content .landing .imgfar .frame {
+        margin-bottom: 15px;
+      
+
+
+    }
+
+
+
+    .content .Other {
+        width: 90%;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+
+
+    }
+
+
+    .content .Other h1 {
+
+        margin-top: 80px;
+        margin-bottom: 30px;
+    }
+
+    .content .Other .bvv .imgbox {
+        margin-left: 10px;
+        margin-bottom: 8px;
+    }
+
+    .content .Other .bvv {
+        width: 90%;
+
+        flex-wrap: wrap;
+
+        margin: 0 auto;
+    }
+
+
+    .content .orenj {
+        width: 90%;
+        margin: 0 auto;
+        background-color: #FF7143;
+    }
+
+    .content .orenj h1 {
+        font-size: 60px;
+        padding: 90px 175px;
+    }
+
+    .content .orenj p {
+        font-size: 18px;
+
+        text-align: center;
+        margin-top: -60px;
+    }
+
+    .content .orenj .button1 {
+        width: 226px;
+        height: 64px;
+        border-radius: 6px;
+        color: white;
+        background-color: black;
+        font-size: 18px;
+        margin-left: 150px;
+        margin-top: 26px;
+
+
+    }
+
+    .frame1 {
+        margin-bottom: 17px;
+    }
+
+    .frame2 {
+        margin-bottom: 17px;
+    }
+
+    .frame3 {
+        margin-bottom: 17px;
+    }
+
+    .frame4 {
+        margin-bottom: 17px;
+    }
+
+    .content .orenj .buuton2 {
+        width: 208px;
+        height: 64px;
+        border-radius: 6px;
+        color: rgb(0, 0, 0);
+        background-color: rgb(255, 255, 255);
+        border-style: none;
+        font-size: 18px;
+        margin-bottom: 70px;
+    }
+
+    .content .orenj {
+
+        margin-top: 70px;
+
+    }
+
+
+
+
+    .content .hasan {
+        background-color: #FF7143;
+        display: flex;
+        justify-content: space-around;
+
+
+
+    }
+
+    .content .hasan .right img {
+        margin-top: -80px;
+        z-index: -1111;
+    }
+
+    .content .orenj {
+        margin-top: 0 auto;
+        display: flex;
+        margin-bottom: 150px;
+        justify-content: space-around;
+    }
+
+    .content .orenj .left .t2 {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+
+    }
+
+
+    .content .orenj .left .t2 img {
+        width: 150px;
+        margin-bottom: 9px;
+    }
+
+    .content .orenj .left .t2 h3 {
+
+        margin-bottom: 9px;
+
+    }
+
+    .content .orenj .left .t2 .p5 {
+        margin-top: 9px;
+        margin-bottom: 90px;
+    }
+
+    .content .orenj .zurchiz {
+        width: 500px;
+        height: 600px;
+        background-color: rgb(255, 255, 255);
+        margin-top: 45px;
+        margin-left: 20px;
+        /* text-align: center; */
+
+
+    }
+
+    .content .orenj .h2 {
+        padding-top: 30px;
+        margin-left: 50px;
+        margin-bottom: 40px;
+    }
+
+    .content .orenj .zurchiz .input1 {
+        width: 80%;
+        height: 60px;
+        border-style: none;
+        background: rgba(0, 0, 0, 0.05);
+        border-radius: 6px;
+        margin: 0 50px;
+        font-size: 20px;
+        border-style: none;
+
+
+
+    }
+
+    .content .orenj .zurchiz .input2 {
+        width: 80%;
+        height: 60px;
+        border-style: none;
+        background: rgba(0, 0, 0, 0.05);
+        border-radius: 6px;
+        border-style: none;
+        margin: 0 50px;
+        font-size: 20px;
+
+
+    }
+
+    .content .orenj .zurchiz .you {
+
+        margin: auto;
+        margin-left: -290px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+
+
+    }
+
+    .content .orenj .zurchiz .h2 {
+        font-size: 40px;
+
+
+    }
+
+    .content .orenj .zurchiz .agree {
+
+        font-size: 20px;
+
+
+
+    }
+
+    .content .orenj .rayt .zurchiz .admi {
+        margin: 40px 50px;
+        display: flex;
+        gap: 20px;
+
+
+    }
+
+
+    .content .orenj .zurchiz .chack {
+        width: 24px;
+        height: 24px;
+        /* margin: 35px 20px; */
+        background-color: rgb(185, 185, 185);
+
+    }
+
+    .content .orenj .zurchiz .chg {
+        padding-left: 40px;
+        padding-top: 35px;
+        font-size: 1.2em;
+
+    }
+
+
+
+    .content .orenj .zurchiz .but {
+        background-color: #000;
+        border-style: none;
+        width: 80%;
+        height: 60px;
+        border-radius: 6px;
+        color: white;
+        font-size: 15px;
+        margin-left: 50px;
+        margin-bottom: 50px;
+    }
+
+    .content .orenj .zurchiz .redp {
+        font-size: 18px;
+        margin-top: 0px;
+        font-size: 1.2em;
+
+    }
+
+    .content .orenj .zurchiz .redp2 {
+
+        color: #FF7143;
+
+
+
+    }
+
+    .content .finish {
+        width: 100%;
+        height: 400px;
+        background-color: rgb(0, 0, 0);
+        margin-bottom: 100px;
+
+    }
+
+    .content .finish .chapung {
+        justify-content: space-between;
+        display: flex;
+        width: 100%;
+    }
+
+    .content .finish .chapung .chap {
+        padding-left: 40px;
+    }
+
+    .content .finish .chap .ul {
+        color: rgb(222, 222, 222);
+        display: flex;
+        gap: 20px;
+        margin-left: 30px;
+    }
+
+    .content .finish .ung .butt {
+        width: 180px;
+        height: 45px;
+        margin-top: 80px;
+        margin-right: 80px;
+
+
+    }
+
+    .content .finish .chap img {
+        margin: 90px 30px;
+    }
+
+    .content .finish .ung .imgfinish {
+        display: flex;
+        gap: 10px;
+        margin-top: 80px;
+        margin-right: -100px;
+
+
+
+
+
+    }
+
+    .content .finish .hr {
+        margin: 0 70px;
+
+
+        border-color: #FFFFFF29;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .content .finish .finish2 {
+        justify-content: space-between;
+        /* background-color: rgb(0, 136, 255); */
+
+    }
+
+    .content .finish .finish2 .ulli {
+        font-size: 15px;
+        display: flex;
+        gap: 15px;
+        margin-left: 70px;
+        color: rgb(232, 232, 232);
+
+
+    }
+
+    .content .finish .finish2 .ulli .redd {
+        color: #FF7143;
+    }
+
+
+    .content .finish .finish2 .ulli .unga {
+
+        padding-left: 1155px;
+
+    }
